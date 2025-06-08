@@ -4,6 +4,7 @@
     "@types/react": "^19.1.6",
     "@vitejs/plugin-react": "^4.5.1",
     "autoprefixer": "^10.4.21",
+    "lovable-tagger": "^1.1.8",
     "lucide-react": "^0.513.0",
     "postcss": "^8.5.4",
     "react": "^19.1.0",
