@@ -16,9 +16,14 @@
   }
 }
 {
+  "name": "Brand_Engine",
+  "version": "1.0.0",
+  "dependencies": {
+    // ... your existing dependencies
+  },
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "tsc && vite build", 
     "build:dev": "vite build --mode development",
     "preview": "vite preview"
   }
